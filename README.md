@@ -22,5 +22,5 @@ This is a fully functional web-based calculator designed for quick and easy arit
 
 
 # Connect with Me
-LinkedIn: www.linkedin.com/in/karanroshan
-Email: karanroshan91@gmail.com
+- LinkedIn: www.linkedin.com/in/karanroshan
+- Email: karanroshan91@gmail.com
