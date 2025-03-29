@@ -1,4 +1,4 @@
-# Calculator
+# ----- Calculator -----
 A simple and stylish calculator web application built with HTML, CSS, and JavaScript.
 This is a fully functional web-based calculator designed for quick and easy arithmetic operations. The project features an intuitive user interface with a modern, responsive design.
 
