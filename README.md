@@ -15,6 +15,9 @@ This is a fully functional web-based calculator designed for quick and easy arit
 - CSS
 - JavaScript
 
+# Screenshot
+<img src="Image/Calculator Screenshot.png" alt="Calculator Scrrenshot">
+
 # How to Use
 1. Click on the number and operator buttons to form an expression.
 2. Press = to evaluate the expression.
